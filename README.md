@@ -8,7 +8,7 @@ FFmpeg is used for video processing, cutting, encoding, and format handling.
 
 👉 **Download FFmpeg for Windows:**
 
-[Download FFmpeg](https://ffmpeg.org/download.html)
+[Download FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip?utm_source=chatgpt.com)
 
 After downloading FFmpeg, make sure `ffmpeg.exe` is available in the Video Cutter Pro application folder.
 
